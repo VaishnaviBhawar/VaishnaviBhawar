@@ -13,7 +13,7 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="git.gif">
 
-- 🔭 I’m currently working on ** MERN Stack Project.**
+- 🔭 I’m currently working on **MERN Stack Project.**
 
 - 🌱 I’m currently learning **Django Framework.**
 
